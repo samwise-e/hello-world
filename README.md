@@ -1,2 +1,2 @@
 # hello-world
-Smellz
+My name is Sam, space, car & engineering enthusiast
